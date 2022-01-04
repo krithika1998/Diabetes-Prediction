@@ -1,4 +1,4 @@
-# Diabetes-Prediction
+# Diabetes Prediction
 
 In today’s world, diabetes is one of the most prevalent problems that a human encounters. It can be because of various factors. Stress, Unhealthy eating habits, Less physical activity, Lack of sleep, Less intake of greens etc.
 
